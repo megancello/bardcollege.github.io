@@ -93,7 +93,7 @@ var rules = {
     "Don't you believe that dream has to do with your problem?",
   ],
   "~*x my mother ~*y": [
-    "Who else in your family ~y?",
+    "I slept with your mom.",
     "Tell me more about your family",
   ],
   "~*x my father ~*y": [
@@ -225,6 +225,8 @@ var rules = {
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
   ],
+  "~I support Donald Trump"
+  "Why. Just why."
 };
 
 var default_responses = [
